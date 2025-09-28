@@ -10,3 +10,4 @@
 - Mejorar conocimientos en Git
 - Colaborar en proyectos open source
 - Aprender nuevas tecnolog¡as
+"Email: chusito070809@gmail.com" 
