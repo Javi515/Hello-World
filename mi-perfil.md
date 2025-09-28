@@ -1,13 +1,16 @@
-# Jes£s Javier
+# Jesús Javier
 
-## Informaci¢n Personal
-- **Nombre**: Jes£s Javier
-- **Rol**: Estudiante de Ingenier¡a en Sistemas
-- **Experiencia**: En formaci¢n
-- **Tecnolog¡as**: HTML, CSS, JavaScript, Git
+## Información Personal
+- **Nombre**: Jesús Javier
+- **Rol**: Estudiante de Ingeniería en Sistemas
+- **Experiencia**: En formación
+- **Tecnologías**: HTML, CSS, JavaScript, Git
 
 ## Objetivos
 - Mejorar conocimientos en Git
 - Colaborar en proyectos open source
-- Aprender nuevas tecnolog¡as
-"Email: chusito070809@gmail.com" 
+- Aprender nuevas tecnologías
+
+## Contacto
+Email: jesus@example.com  
+Teléfono: 9612069665
